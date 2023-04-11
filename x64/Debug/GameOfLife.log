@@ -1,0 +1,8 @@
+﻿  App.cpp
+S:\Kromatik\GameOfLife\GameOfLife\Src\App.cpp(178,22): warning C4189: 'worldSurface': local variable is initialized but not referenced
+S:\Kromatik\GameOfLife\GameOfLife\Src\App.cpp(285,45): warning C4244: 'argument': conversion from 'u32' to 'Uint8', possible loss of data
+S:\Kromatik\GameOfLife\GameOfLife\Src\App.cpp(137): warning C4706: assignment within conditional expression
+S:\Kromatik\GameOfLife\GameOfLife\Src\App.cpp(144): warning C4706: assignment within conditional expression
+S:\Kromatik\GameOfLife\GameOfLife\Src\App.cpp(160): warning C4706: assignment within conditional expression
+S:\Kromatik\GameOfLife\GameOfLife\Src\App.cpp(165): warning C4706: assignment within conditional expression
+  GameOfLife.vcxproj -> S:\Kromatik\GameOfLife\x64\Debug\GameOfLife.exe
